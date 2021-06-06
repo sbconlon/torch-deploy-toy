@@ -1,0 +1,4 @@
+evaluate.py
+scripted_mnist.pt
+build/*
+data/*
